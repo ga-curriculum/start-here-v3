@@ -4,14 +4,14 @@ Below is the schedule of activities for the week:
 
 | Time         | Day 1                      | Day 2                   | Day 3                   | Day 4                       | Day 5                             |
 |--------------|----------------------------|-------------------------|-------------------------|------------------------------|----------------------------------|
-| **9:00 AM**  | 🟦 My First Java           | 🟩 Continue...          |🟦 Intro to OOP | 🟦 Abstract Classes vs Interfaces | 🟩 Continue... |
-| **10:00 AM** | 🟦 Data types + Variables  | 🟩 Continue...            | 🟦 Objects & Classes    | 🟩 Inheritance and Polymorphism | 🟩 Continue...            |
-| **11:00 AM** | 🟦 Continue...             | 🟦 Arrays and Array Lists | 🟩 Lab: File Reading & Writing  | 🟦 The Heap and Garbage  | 🟦 Design Patterns         |
+| **9:00 AM**  | 🟦 [My First Java](https://git.generalassemb.ly/ENT-JAVA-Accelerator/my-first-java)           | 🟩 Continue...          |🟦 Intro to OOP | 🟦 [Abstract Classes vs Interfaces](https://git.generalassemb.ly/ENT-JAVA-Accelerator/abstract-classes-and-Interfaces) | 🟩 Continue... |
+| **10:00 AM** | 🟦 [Data types + Variables](https://git.generalassemb.ly/ENT-JAVA-Accelerator/my-first-java)  | 🟩 Continue...            | 🟦 [Objects & Classes](https://git.generalassemb.ly/ENT-JAVA-Accelerator/objects-and-classes)    | 🟩 Inheritance and Polymorphism | 🟩 Continue...            |
+| **11:00 AM** | 🟦 Continue...             | 🟦 [Arrays and Array Lists](https://git.generalassemb.ly/ENT-JAVA-Accelerator/arrays-and-array-lists) | 🟩 Lab: File Reading & Writing  | 🟦 [The Heap and Garbage](https://git.generalassemb.ly/ENT-JAVA-Accelerator/java-garbage-collection)  | 🟦 [Design Patterns](https://git.generalassemb.ly/ENT-JAVA-Accelerator/java-design-patterns)         |
 | **12:00 PM** | Lunch                      | Lunch                   | Lunch                   | Lunch                        | Lunch                            |
-| **1:00 PM**  | 🟦 Control Flow & Loops    | 🟦 Debugging.           | 🟦 Sub Classes          | 🟦 Test Driven Development   | 🟦 Design Patterns               |
-| **2:00 PM**  | 🟦 Continue...             | 🟦 Continue...          | 🟩 Lab: Shapes          | 🟦 Continue...                  | 🟩 Lab: Java Design Pattern.  |
-| **3:00 PM**  | 🟦 Methods & Scopes        | 🟦 Exception Handling   | 🟩 Continue...          | 🟩 Lab: Test Driven Dev      | 🟩 Continue...                   |
-| **4:00 PM**  | 🟩 Lab: Methods & Scopes   | 🟩 Lab: Collections     | 🟩 Lab: Subclasses with Animals | 🟩 Continue...       | 🟩 Continue...                   |
+| **1:00 PM**  | 🟦 [Control Flow & Loops](https://git.generalassemb.ly/ENT-JAVA-Accelerator/control-flow-and-loops)    | 🟦 Debugging           | 🟦 [Sub Classes](https://git.generalassemb.ly/ENT-JAVA-Accelerator/subclasses)          | 🟦 [Test Driven Development](https://git.generalassemb.ly/ENT-JAVA-Accelerator/java-tdd)   | 🟦 [Design Patterns](https://git.generalassemb.ly/ENT-JAVA-Accelerator/java-design-patterns)               |
+| **2:00 PM**  | 🟦 Continue...             | 🟦 Continue...          | 🟩 [Lab: Shapes](https://git.generalassemb.ly/ENT-JAVA-Accelerator/shapes-lab)          | 🟦 Continue...                  | 🟩 [Lab: Java Design Pattern](https://git.generalassemb.ly/ENT-JAVA-Accelerator/java-design-patterns-lab)  |
+| **3:00 PM**  | 🟦 [Methods & Scopes](https://git.generalassemb.ly/ENT-JAVA-Accelerator/methods-and-scope)        | 🟦 [Exception Handling](https://git.generalassemb.ly/ENT-JAVA-Accelerator/exception-handling)   | 🟩 Continue...          | 🟩 [Lab: Test Driven Dev](https://git.generalassemb.ly/ENT-JAVA-Accelerator/java-tdd-lab)      | 🟩 Continue...                   |
+| **4:00 PM**  | 🟩 Lab: Methods & Scopes   | 🟩 Lab: Collections     | 🟩 [Lab: Subclasses with Animals](https://git.generalassemb.ly/ENT-JAVA-Accelerator/subclassing-lab) | 🟩 Continue...       | 🟩 Continue...                   |
 | **5:00 PM**  | 🟦 Close                   | 🟦 Close                | 🟦 Close                | 🟦 Close                     | 🟦 Close                         |
 
 Each session is marked with a colored square indicating the type of activity:
