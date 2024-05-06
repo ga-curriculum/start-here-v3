@@ -2,17 +2,17 @@
 
 Below is the schedule of activities for the week:
 
-| Time         | Day 1                     | Day 2               | Day 3              |
-|--------------|---------------------------|---------------------|--------------------|
-| **9:00 AM**  | 🟦 My first Java          | Arrays + ArrayLists | Debugging          |
-| **10:00 AM** | 🟦 Data types + variables | LinkedLists + Maps  | Exception handling |
-| **11:00 AM** | 🟦 Continue...            | 🟩 Continue...      | Continue ... |
-| **12:00 PM** | Lunch                     | Lunch               |
-| **1:00 PM**  | 🟦 Methods and scope      | 🟦 Collections lab  |
-| **2:00 PM**  | 🟦 Control flow / loops   | Continue            |
-| **3:00 PM**  | 🟩 Control flow lab       | 🟩 Continue...      |
-| **4:00 PM**  | 🟦 Continue               | 🟩 Continue...      |
-| **5:00 PM**  | 🟦 Continue               | 🟩 Continue...      |
+| Time         | Day 1                      | Day 2                   | Day 3                   | Day 4                       | Day 5                             |
+|--------------|----------------------------|-------------------------|-------------------------|------------------------------|----------------------------------|
+| **9:00 AM**  | 🟦 My First Java           | 🟩 Continue Lab: Methods & Scopes  |🟦 Intro to OOP | 🟦 Abstract Classes vs Interfaces | 🟩 Lab Continue: Test Driven Dev |
+| **10:00 AM** | 🟦 Data types + Variables  | 🟩 Continue...            | 🟦 Objects & Classes    | 🟩 Inheritance and Polymorphism | 🟩 Continue...            |
+| **11:00 AM** | 🟦 Continue...             | 🟦 Arrays and Array Lists | 🟩 Lab: File Reading & Writing  | 🟦 The Heap and Garbage  | 🟦 Design Patterns         |
+| **12:00 PM** | Lunch                      | Lunch                   | Lunch                   | Lunch                        | Lunch                            |
+| **1:00 PM**  | 🟦 Control Flow & Loops    | 🟦 Debugging.           | 🟦 Sub Classes          | 🟦 Test Driven Development   | 🟦 Design Patterns               |
+| **2:00 PM**  | 🟦 Continue...             | 🟦 Continue...          | 🟩 Lab: Shapes          | 🟦 Continue...                  | 🟩 Lab: Java Design Pattern.  |
+| **3:00 PM**  | 🟦 Methods & Scopes        | 🟦 Exception Handling   | 🟩 Lab: Continue        | 🟩 Lab: Test Driven Dev      | 🟩 Continue...                   |
+| **4:00 PM**  | 🟩 Lab: Methods & Scopes   | 🟩 Lab: Collections     | 🟩 Lab: Subclasses with Animals | 🟩 Continue...       | 🟩 Continue...                   |
+| **5:00 PM**  | 🟦 Close                   | 🟦 Close                | 🟦 Close                | 🟦 Close                     | 🟦 Close                         |
 
 Each session is marked with a colored square indicating the type of activity:
 
