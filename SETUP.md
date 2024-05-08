@@ -14,15 +14,16 @@
 
 ### How do I Fork and Clone lessons/labs?
 
-1. From the General Assembly enterprise GitHub account, navigate to the top right corner of the repository page and
-   click the "Fork" button
-2. Select your Username as the destination for the fork.
-3. Verify that the repository is under your username: `https://git.generalassemb.ly/username/repo-name`
-4. Click the green Code button and then click the clipboard icon next to the **SSH URL** to copy the .git path.
-5. Open the terminal and `cd` into your java-accelerator folder: `cd ~/java-accelerator`.
-6. From the terminal window, type: `git clone <paste_git_url_here>`
-7. Open this newly created directory in JetBrains IntelliJ IDE by selecting "Open" from the IDE's welcome screen or
-   navigating through the menu option `File` > `Open`.
+1. Open your terminal.
+2. To access the `java-accelerator` directory, navigate to it from your home directory by entering the
+   command `cd ~/java-accelerator`.
+3. Go back to the browser window and click the **Fork** button located in the upper right corner of the repository page to create a copy of the repository under your own **GitHub Enterprise** account.
+4. Once you have forked the repository, you will have your own copy under your GitHub Enterprise account.
+    - Copy the URL of your forked repository, which will look like: `https://git.generalassemb.ly/username/repo-name`.
+5. Click the **GREEN** Code button and then click the clipboard icon next to the **SSH URL** to copy the .git path.
+6. Navigate to the directory `repo-name` by entering `cd repo-name` in your terminal.
+7. Open this directory in JetBrains IntelliJ IDE by selecting Open from the IDE's welcome screen or using the menu
+   option `File` > `Open`... and choosing the `repo-name` folder.
 
    <br>
 
