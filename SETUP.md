@@ -41,7 +41,7 @@
 <!-- You can now goto your repo on GitHub to see your new files. NOTE - if you do not see your updates, please select the dropdown menu on the top right (it'll probably say "Main") and select the "Master" branch. -->
 <br>
 
-### How do I submit my Work via Pull Request?
+### How do I submit my work via Pull Request?
 
 1. In your repository, click on Pull Requests which is placed underneath the repo name.
    ![](resources/start-here/assets/pull_requests.png)
