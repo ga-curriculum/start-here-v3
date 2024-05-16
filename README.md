@@ -27,4 +27,4 @@ Each session is marked with a colored square indicating the type of activity:
 
 **For Copying & Pasting Code, Resources, and More Check out
 this [Resource Google Sheet](https://docs.google.com/spreadsheets/d/14Tm5GAkT8AjFSBKm4lzvH_69OrUaRrx4qWYVAmzvIkc/edit?usp=sharing)
-on your VM.**
+**
