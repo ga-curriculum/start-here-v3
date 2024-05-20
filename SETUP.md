@@ -21,9 +21,8 @@
 4. Once you have forked the repository, you will have your own copy under your GitHub Enterprise account.
     - Copy the URL of your forked repository, which will look like: `https://git.generalassemb.ly/username/repo-name`.
 5. Click the **GREEN** Code button and then click the clipboard icon next to the **SSH URL** to copy the .git path.
-6. Navigate to the directory `repo-name` by entering `cd repo-name` in your terminal.
-7. Navigate back to the terminal and to the directory where you want to clone the repository. Enter the command `git clone`, followed by the `SSH URL` you just copied. This will clone the repository into your local machine.
-8. Open this directory in JetBrains IntelliJ IDE by selecting Open from the IDE's welcome screen or using the menu
+6. Navigate back to the terminal and to the directory where you want to clone the repository. Enter the command `git clone`, followed by the `SSH URL` you just copied. This will clone the repository into your local machine.
+7. Open this directory in JetBrains IntelliJ IDE by selecting Open from the IDE's welcome screen or using the menu
    option `File` > `Open`... and choosing the `repo-name` folder.
    <br>
 
